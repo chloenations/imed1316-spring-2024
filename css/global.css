@@ -1,0 +1,20 @@
+/*color*/
+/* 
+60% of #7CAC82 - Dominant
+30% of #5F9566 - Secondary
+10% of #FDFDFD - Accent
+*/
+
+:root {
+
+    /* var(--dominantColor) !important; */
+    --dominantColor: #7CAC82;
+    /* var(--secondaryColor) !important; */
+    --secondaryColor: #5F9566;
+    /* var(--accentColor) !important; */
+    --accentColor: #FDFDFD;
+
+
+
+
+}
