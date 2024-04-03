@@ -73,6 +73,18 @@ h2 {
 
 }
 
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0.25em 0px;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative;
+    color: var(--accentColor) !important;
+
+}
+
 /* ADD THE CLASS .custom-toggler TO THE HAMBURGUER MENU*/
 /*under main.css added*/
 
