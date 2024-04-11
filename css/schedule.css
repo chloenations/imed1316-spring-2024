@@ -1,7 +1,7 @@
 @import "global.css";
 @import "main.css";
 
-.proper-body {
+.wrapper-body {
     background-image: url("/images/background-image.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
