@@ -95,3 +95,12 @@
     color: #ffffff;
     border-radius: 0px;
 }
+
+.cropped {
+    width: 200px;
+    height: 200px;
+    margin-top: 16px;
+    border: 10px solid var(--accentColor) !important;
+    margin: auto;
+    clip-path: circle(50% at 50% 50%);
+}
