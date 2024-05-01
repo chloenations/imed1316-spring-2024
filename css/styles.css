@@ -1,2 +1,8 @@
 @import "global.css";
 @import "main.css";
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff !important;
+
+}
