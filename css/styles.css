@@ -45,7 +45,7 @@
 }
 
 .first-paragraph-img {
-    position: relative;
+    width: 100%;
     float: left;
     padding-right: 18px;
 }
@@ -75,7 +75,7 @@
 }
 
 .second-paragraph-img {
-    position: relative;
+    width: 100%;
     float: right;
     padding-left: 18px;
 }
