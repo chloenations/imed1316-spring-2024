@@ -34,7 +34,7 @@
     position: relative;
     background-color: #fffffd;
     color: #000000;
-    font-weight: bold;
+    font-weight: normal;
     font-family: verdana;
     font-size: 16px;
     padding: 20px;
@@ -64,7 +64,7 @@
     position: relative;
     background-color: #ffffff;
     color: var(--dominantColor) !important;
-    font-weight: bold;
+    font-weight: normal;
     font-family: verdana;
     font-size: 16px;
     padding: 20px;
